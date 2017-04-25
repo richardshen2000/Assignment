@@ -1,0 +1,10 @@
+C:\Assignment\WebDataSource\WebDataSource\bin\WebDataSource.dll.config
+C:\Assignment\WebDataSource\WebDataSource\bin\WebDataSource.dll
+C:\Assignment\WebDataSource\WebDataSource\bin\WebDataSource.pdb
+C:\Assignment\WebDataSource\WebDataSource\bin\EntityFramework.dll
+C:\Assignment\WebDataSource\WebDataSource\bin\EntityFramework.SqlServer.dll
+C:\Assignment\WebDataSource\WebDataSource\bin\EntityFramework.xml
+C:\Assignment\WebDataSource\WebDataSource\bin\EntityFramework.SqlServer.xml
+C:\Assignment\WebDataSource\WebDataSource\obj\Release\WebDataSource.dll
+C:\Assignment\WebDataSource\WebDataSource\obj\Release\WebDataSource.pdb
+C:\Assignment\WebDataSource\WebDataSource\obj\Release\WebDataSource.csprojResolveAssemblyReference.cache

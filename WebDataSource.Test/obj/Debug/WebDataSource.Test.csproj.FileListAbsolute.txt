@@ -1,0 +1,13 @@
+C:\Test\WebDataSource.Test\obj\Debug\WebDataSource.Test.csprojResolveAssemblyReference.cache
+C:\Test\WebDataSource.Test\bin\Debug\WebDataSource.Test.dll
+C:\Test\WebDataSource.Test\bin\Debug\WebDataSource.Test.pdb
+C:\Test\WebDataSource.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Test\WebDataSource.Test\bin\Debug\WebDataSource.dll
+C:\Test\WebDataSource.Test\bin\Debug\WebDataSource.pdb
+C:\Test\WebDataSource.Test\obj\Debug\WebDataSource.Test.dll
+C:\Test\WebDataSource.Test\obj\Debug\WebDataSource.Test.pdb
+C:\Test\WebDataSource.Test\bin\Debug\EntityFramework.dll
+C:\Test\WebDataSource.Test\bin\Debug\EntityFramework.xml
+C:\Test\WebDataSource.Test\bin\Debug\WebDataSource.Test.dll.config
+C:\Test\WebDataSource.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Test\WebDataSource.Test\bin\Debug\EntityFramework.SqlServer.xml

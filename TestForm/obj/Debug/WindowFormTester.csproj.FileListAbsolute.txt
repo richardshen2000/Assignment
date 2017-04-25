@@ -1,0 +1,17 @@
+C:\try\TestForm\bin\Debug\TestForm.exe.config
+C:\try\TestForm\obj\Debug\TestForm.exe
+C:\try\TestForm\obj\Debug\TestForm.pdb
+C:\try\TestForm\bin\Debug\TestForm.exe
+C:\try\TestForm\bin\Debug\TestForm.pdb
+C:\try\TestForm\obj\Debug\WindowFormTester.csprojResolveAssemblyReference.cache
+C:\try\TestForm\obj\Debug\TestForm.Form1.resources
+C:\try\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\try\TestForm\obj\Debug\WindowFormTester.csproj.GenerateResource.Cache
+C:\Assignment\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Assignment\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Assignment\TestForm\obj\Debug\WindowFormTester.csproj.GenerateResource.Cache
+C:\Assignment\TestForm\obj\Debug\TestForm.exe
+C:\Assignment\TestForm\obj\Debug\TestForm.pdb
+C:\Assignment\TestForm\bin\Debug\TestForm.exe.config
+C:\Assignment\TestForm\bin\Debug\TestForm.exe
+C:\Assignment\TestForm\bin\Debug\TestForm.pdb

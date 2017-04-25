@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WebDataSource.MessageCenter" CodeBehind="MessageCenter.svc.cs" %>

@@ -1,0 +1,13 @@
+C:\Assignment\AndroidApps\obj\Debug\assemblies\AndroidApps.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\Mono.Android.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\mscorlib.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.Core.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.Data.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.EnterpriseServices.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.Web.Services.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.Xml.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\Mono.Security.dll
+C:\Assignment\AndroidApps\obj\Debug\assemblies\System.Transactions.dll

@@ -1,0 +1,10 @@
+C:\try\TestDataBase\bin\Debug\TestDataBase.dacpac
+C:\try\TestDataBase\bin\Debug\TestDataBase.dll
+C:\try\TestDataBase\bin\Debug\TestDataBase.pdb
+C:\try\TestDataBase\obj\Debug\TestDataBase.dll
+C:\try\TestDataBase\obj\Debug\TestDataBase.pdb
+C:\Assignment\TestDataBase\bin\Debug\TestDataBase.dacpac
+C:\Assignment\TestDataBase\bin\Debug\TestDataBase.dll
+C:\Assignment\TestDataBase\bin\Debug\TestDataBase.pdb
+C:\Assignment\TestDataBase\obj\Debug\TestDataBase.dll
+C:\Assignment\TestDataBase\obj\Debug\TestDataBase.pdb
